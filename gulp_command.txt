@@ -1,0 +1,23 @@
+// Gulp 4, Nodejs, Gulp and Npm all Command for Live Project 
+============================================================
+
+1. At first open any Command window from click your project folder and press command following the command list.
+2. 'npm init' and hti enter then fill the all Information
+3. 'npm install bootstrap font-awesome jquery popper.js --save'
+4. 'npm install gulp gulp-sass browser-sync --save-dev' 
+5. After Install all necessary file you have to must be add 'gulpfile.js' on your project folder
+6. 'gulp fa'
+7. 'gulp fonts'
+8. 'gulp js'
+9. After that you have to must be create folder like 'scss' on assets folder and create new file like 'style.scss' on scss folder.
+10. 'gulp scss' and wait for finish.
+// After finished the command list you will be see that add all necessary file on you project folder.
+11. Now create 'index.html' file on your project folder. 
+// For Live Server on Localhost you have to press this command from 12 list.
+12.'gulp liveServer'
+
+
+// Okey! you are now WELCOME lets work easily.
+
+	  Thank You 
+	Sheikh Riyad
